@@ -9,6 +9,12 @@
     <br> 
 </p>
 
+## ▶ Preview
+
+<p align="center">
+  ![](https://i.imgur.com/r3YpPqY.gif)
+</p>
+
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -59,6 +65,7 @@ npm start
 ```
 
 It should open 2 pages on your browser, one for the mobile application and another with the web application. With your mobile devide, scan the QR code showed in the expo's web page.
+
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
