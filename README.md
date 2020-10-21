@@ -3,9 +3,6 @@
  <img width=285px height=95px src="https://i.imgur.com/PBSFD4U.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">happy</h3>
-
-
 ---
 
 <p align="center"> happy is a web/mobile application to map orphanages and make it easier to visit many children
