@@ -19,7 +19,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This [original project](https://github.com/rocketseat-education/nlw-03-omnistack) was created by [RocketSeat](https://rocketseat.com.br/) during the [NLW #3](https://nextlevelweek.com/), an online event from 11 to 18 October 2020. 
+This [original project](https://github.com/rocketseat-education/nlw-03-omnistack) was created by [RocketSeat](https://rocketseat.com.br/) during the [NLW #03](https://nextlevelweek.com/), an online event from 11 to 18 October 2020. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
