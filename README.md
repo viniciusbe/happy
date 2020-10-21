@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the application.
 
 ```
-Node.js (above the major version 12)
+Node.js
 Npm
 Expo app(mobile)
 ```
@@ -65,10 +65,10 @@ It should open 2 pages on your browser, one for the mobile application and anoth
 
 - [Express](https://expressjs.com/) - Server Framework
 - [React](https://reactjs.org/) - Web Framework
-- [React Native](https://reactjs.org/) - Mobile Framework
+- [React Native](https://reactnative.dev/) - Mobile Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
-- [Expo](https://nodejs.org/en/) - Platform
-- [TypeScript](https://nodejs.org/en/) - Language
+- [Expo](https://expo.io/) - Platform
+- [TypeScript](https://www.typescriptlang.org/) - Language
 
 ## ✍️ Authors <a name = "authors"></a>
 
