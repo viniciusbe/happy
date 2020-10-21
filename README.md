@@ -14,8 +14,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 - [License](#license)
+- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -70,16 +70,11 @@ It should open 2 pages on your browser, one for the mobile application and anoth
 - [Expo](https://expo.io/) - Platform
 - [TypeScript](https://www.typescriptlang.org/) - Language
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [Rocketseat Education](https://github.com/rocketseat-education) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/rocketseat-education/nlw-03-omnistack/graphs/contributors) who participated in this project.
 
 ## ✍️ License <a name = "license"></a>
 
 This project is made available under the [MIT License](https://github.com/viniciusbe/happy/blob/master/LICENSE)
 
 ---
-
+<a name="authors"><a/>
 Made with ❤ by Vinícius Bernardes
