@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=285px height=95px src="https://i.imgur.com/PBSFD4U.png" alt="Project logo"></a>
+  <a href="https://github.com/viniciusbe/happy/blob/master/.github/logo.png" rel="noopener">
+ <img width=285px height=95px src="https://github.com/viniciusbe/happy/blob/master/.github/logo.png" alt="Project logo"></a>
 </p>
 
 ---
