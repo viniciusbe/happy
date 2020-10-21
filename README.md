@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center"> happy is a web/mobile application to map orphanages and make it easier to visit many children
+<p align="center"> happy is a web/mobile application to map orphanages and make it easier to visit and make a lot of children happier
     <br> 
 </p>
 
@@ -15,10 +15,11 @@
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Authors](#authors)
+- [License](#license)
 
 ## 🧐 About <a name = "about"></a>
 
-This original project was created by [RocketSeat](https://rocketseat.com.br/) during the [NLW #3](https://nextlevelweek.com/), an online event from 11 to 18 October 2020. 
+This [original project](https://github.com/rocketseat-education/nlw-03-omnistack) was created by [RocketSeat](https://rocketseat.com.br/) during the [NLW #3](https://nextlevelweek.com/), an online event from 11 to 18 October 2020. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -30,7 +31,8 @@ What things you need to install the application.
 
 ```
 Node.js (above the major version 12)
-Npm or Yarn
+Npm
+Expo app(mobile)
 ```
 
 ### Installing
@@ -41,28 +43,23 @@ After cloning the repository, enter the [web](https://github.com/viniciusbe/happ
 
 ```
 npm install
-# or
-yarn install
+```
+Do the same to [mobile](https://github.com/viniciusbe/happy/tree/master/mobile) and [backend](https://github.com/viniciusbe/happy/tree/master/backend) directories.
+
+Then, in the backend directory, run:
+
+```
+npm run dev
 ```
 
-Then, run the application:
+In the web and mobile directories, run:
 
 ```
 npm start
-# or
-yarn start
 ```
 
+It should open 2 pages on your browser, one for the mobile application and another with the web application. With your mobile devide, scan the QR code showed in the expo's web page.
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -78,3 +75,11 @@ Give an example
 - [Rocketseat Education](https://github.com/rocketseat-education) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/rocketseat-education/nlw-03-omnistack/graphs/contributors) who participated in this project.
+
+## ✍️ License <a name = "license"></a>
+
+This project is made available under the [MIT License](https://github.com/viniciusbe/happy/blob/master/LICENSE)
+
+---
+
+Made with ❤ by Vinícius Bernardes
