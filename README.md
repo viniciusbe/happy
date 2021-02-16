@@ -91,5 +91,5 @@ It should open 2 pages on your browser, one for the mobile application and anoth
 This project is made available under the [MIT License](https://github.com/viniciusbe/happy/blob/master/LICENSE)
 
 ---
-<a name="authors"><a/>
+<a name="authors"></a>
 Made with ❤ by Vinícius Bernardes
